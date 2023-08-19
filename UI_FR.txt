@@ -1,0 +1,9 @@
+UI_FR = {
+    UI_KillCount_weapon = "arme",
+    UI_KillCount_fire = "feu",
+    UI_KillCount_car = "voiture",
+    UI_Kills = "Morts",
+    UI_KillsPanel = "Panneau Comptage des Morts avec toutes les valeurs détaillées disponibles.",
+    UI_KCComboTitle = "Joueur sélectionné: ",
+    UI_KCIncludeDead = "Inclus les personnages décédés",
+}
