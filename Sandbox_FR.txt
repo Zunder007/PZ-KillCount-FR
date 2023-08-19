@@ -1,0 +1,9 @@
+Sandbox_FR = {
+    Sandbox_KillCount = "Mod Comptage des Morts",
+    Sandbox_KillCount_doExport = "Exporter le comptage des morts",
+    Sandbox_KillCount_doExport_tooltip = "Peut provoquer du lag.",
+    Sandbox_KillCount_includePostDeathUI = "Texte affiché après votre décès",
+    Sandbox_KillCount_includePostDeathUI_tooltip = "Inclut le comptage de morts global dans le texte flottant après votre décès.",
+    Sandbox_KillCount_MaxUpdateDelay = "Délai de mise à jour",
+    Sandbox_KillCount_MaxUpdateDelay_tooltip = "Temps (en millisecondes) entre deux mises à jour en multijoueur. Une petite valeur donne de la réactivité. Une valeur élevée réduit l'utilisation du réseau et la charge de travail du serveur.",
+}
