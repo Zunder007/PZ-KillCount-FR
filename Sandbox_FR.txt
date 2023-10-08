@@ -6,4 +6,9 @@ Sandbox_FR = {
     Sandbox_KillCount_includePostDeathUI_tooltip = "Inclut le comptage de morts global dans le texte flottant après votre décès.",
     Sandbox_KillCount_MaxUpdateDelay = "Délai de mise à jour",
     Sandbox_KillCount_MaxUpdateDelay_tooltip = "Temps (en millisecondes) entre deux mises à jour en multijoueur. Une petite valeur donne de la réactivité. Une valeur élevée réduit l'utilisation du réseau et la charge de travail du serveur.",
+
+	Sandbox_KillCount_shareOnServer = "Morts partagés",
+	Sandbox_KillCount_shareOnServer_tooltip = "Chaque client peut voir le score de chaque personnage. Désactivez-le sur les (très grands) serveurs pour réduire la charge de transfert de Global Mod Data.",
+	Sandbox_KillCount_keepTrackOfDead = "Suivre les scores de Morts",
+	Sandbox_KillCount_keepTrackOfDead_tooltip = "Les personnages morts sont conservés et comptent pour les victimes du serveur. Désactivez pour un serveur qui n’est jamais réinitialisé.",
 }
